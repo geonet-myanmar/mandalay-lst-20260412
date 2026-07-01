@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.tif
+*.tiff
+*.npy
+*.pkl
+.venv/
+venv/
+*.egg-info/
+
+# generated outputs (keep example map in examples/ tracked)
+/lst_output.jpg
+/output/
+
+# local conversation exports (not part of the project)
+/*-using-microsoft-planetary-computer-*.txt
